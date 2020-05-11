@@ -1,6 +1,6 @@
 # Book settings
-title: My sample book
-author: The Jupyter Book Community
+title: Scientific Programming in Python
+author: Juan Nunez-Iglesias and Nelle Varoquaux
 logo: logo.png
 
 latex:
