@@ -4,8 +4,11 @@
 - file: 1-git-and-github
 - file: 2-advanced-numpy
 - file: 3-pandas-and-tidy-data
+- file: 4-testing-and-continuous-integration
+- file: 4-reproducibility
 - file: 4-debugging
 - file: 5-profiling-and-optimization
-- file: 6-parallel-python
+- file: 6-packaging
+- file: 7-parallel-python
 
 - file: epilogue
