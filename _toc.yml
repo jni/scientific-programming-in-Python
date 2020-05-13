@@ -1,6 +1,11 @@
-- file: intro
-- file: content
-  sections:
-    - file: markdown
-    - file: notebooks
-- file: syntax
+- file: preface
+
+- file: 0-environments
+- file: 1-git-and-github
+- file: 2-advanced-numpy
+- file: 3-pandas-and-tidy-data
+- file: 4-debugging
+- file: 5-profiling-and-optimization
+- file: 6-parallel-python
+
+- file: epilogue
