@@ -1,11 +1,18 @@
 - file: preface
 
-- file: 0-environments
+- file: getting-started
+  sections:
+    - file: editors-and-ides
+    - file: conda-pip
+    - file: organizing-code
 - file: 1-git-and-github
 - file: 2-advanced-numpy
 - file: 3-pandas-and-tidy-data
-- file: 4-testing-and-continuous-integration
-- file: 4-reproducibility
+- file: 4-testing
+  sections:
+    - file: testing
+    - file: continuous-integration
+    - file: reproducibility
 - file: 4-debugging
 - file: 5-profiling-and-optimization
 - file: 6-packaging
